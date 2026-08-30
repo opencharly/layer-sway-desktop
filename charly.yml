@@ -1,7 +1,7 @@
 version: 2026.232.0520
 sway-desktop:
     candy:
-        version: 2026.242.1712
+        version: 2026.242.1930
         description: |
             Composes a complete headless Sway desktop userland (Wayland automation, screen capture, browser, terminal, file manager, status bar, notifications, audio) with no install of its own
             sway-desktop is a pure meta-composition: it ships no packages or
@@ -20,7 +20,7 @@ sway-desktop:
             - '@github.com/opencharly/layer-wl-overlay:v2026.237.557'
             - '@github.com/opencharly/layer-wf-recorder:v2026.240.0122'
             - '@github.com/opencharly/layer-chrome-sway:v2026.242.1719'
-            - '@github.com/opencharly/layer-xfce4-terminal:v2026.237.1057'
+            - '@github.com/opencharly/layer-xfce4-terminal:v2026.242.1906'
             - '@github.com/opencharly/layer-thunar:v2026.237.1056'
             - '@github.com/opencharly/pod-waybar:v2026.237.559'
             - '@github.com/opencharly/layer-desktop-fonts:v2026.237.502'
