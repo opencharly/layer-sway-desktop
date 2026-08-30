@@ -18,8 +18,8 @@ sway-desktop:
             - '@github.com/opencharly/layer-wl-tools:v2026.237.459'
             - '@github.com/opencharly/layer-wl-screenshot-grim:v2026.237.459'
             - '@github.com/opencharly/layer-wl-overlay:v2026.237.557'
-            - '@github.com/opencharly/layer-wf-recorder:v2026.237.458'
-            - '@github.com/opencharly/layer-chrome-sway:v2026.237.556'
+            - '@github.com/opencharly/layer-wf-recorder:v2026.240.0122'
+            - '@github.com/opencharly/layer-chrome-sway:v2026.242.1719'
             - '@github.com/opencharly/layer-xfce4-terminal:v2026.237.1057'
             - '@github.com/opencharly/layer-thunar:v2026.237.1056'
             - '@github.com/opencharly/pod-waybar:v2026.237.559'
@@ -27,7 +27,7 @@ sway-desktop:
             - '@github.com/opencharly/pod-swaync:v2026.237.558'
             - '@github.com/opencharly/layer-pavucontrol:v2026.237.457'
             - '@github.com/opencharly/layer-tmux:v2026.235.2057'
-            - '@github.com/opencharly/layer-asciinema:v2026.237.455'
+            - '@github.com/opencharly/layer-asciinema:v2026.240.0119'
             - '@github.com/opencharly/layer-fastfetch:v2026.237.456'
         plan:
             - check: the waybar status bar binary from the composed waybar candy is installed
