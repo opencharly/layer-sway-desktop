@@ -17,7 +17,7 @@ sway-desktop:
             - '@github.com/opencharly/layer-wl-screenshot-grim:v2026.272.0414'
             - '@github.com/opencharly/layer-wl-overlay:v2026.272.1053'
             - '@github.com/opencharly/layer-wf-recorder:v2026.273.2348'
-            - '@github.com/opencharly/layer-chrome-sway:v2026.271.2313'
+            - '@github.com/opencharly/layer-chrome-sway:v2026.274.0437'
             - '@github.com/opencharly/layer-xfce4-terminal:v2026.273.1834'
             - '@github.com/opencharly/layer-thunar:v2026.273.1836'
             - '@github.com/opencharly/pod-waybar:v2026.273.1859'
